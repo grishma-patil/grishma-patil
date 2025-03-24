@@ -37,5 +37,5 @@
   </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="50" height="50"/> 
-  </a>
+  </a> 
 </p>
