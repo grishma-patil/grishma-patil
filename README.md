@@ -17,7 +17,7 @@
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/grishmapatil/" target="_blank" title="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" />
   </a>
 </p>
 
