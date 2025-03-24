@@ -23,16 +23,16 @@
 
 ## Languages and Tools:
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" title=""> 
+  <a href="https://www.mysql.com/" title=""> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> 
   </a> 
-  <a href="https://www.python.org/" target="_blank" title=""> 
+  <a href="https://www.python.org/"  title=""> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" title=""> 
+  <a href="https://aws.amazon.com/" title=""> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/> 
   </a> 
-  <a href="https://www.tableau.com/" target="_blank" title=""> 
+  <a href="https://www.tableau.com/" title=""> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="100" height="50"/> 
   </a> 
 </p>
