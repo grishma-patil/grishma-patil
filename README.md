@@ -17,7 +17,7 @@
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/grishmapatil/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="80" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" />
   </a>
 </p>
 
@@ -36,7 +36,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="100" height="30"/> 
   </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="50" height="50"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/> 
   </a>
+  
 </p>
 
