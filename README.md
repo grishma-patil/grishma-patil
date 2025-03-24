@@ -14,16 +14,13 @@
 
 📄 Know about my experiences [here](https://www.linkedin.com/in/grishmapatil/)
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grishmapatil/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grishmapatil/)
 
 ## Languages and Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MYSQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+  <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/TABLEAU-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/POWERBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/></a>
 </p>
-
-
