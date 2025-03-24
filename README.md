@@ -18,7 +18,7 @@
 
 ## Languages and Tools:
 <p align="left">
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MYSQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MYSQL-005C84?style=flat-square&logo=mysql&logoColor=white""/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
   <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/TABLEAU-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/></a>
