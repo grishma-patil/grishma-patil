@@ -16,28 +16,27 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/grishmapatil/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" />
+  <a href="https://www.linkedin.com/in/grishmapatil/" target="_blank" title="">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="80" />
   </a>
 </p>
 
 ## Languages and Tools:
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank"> 
+  <a href="https://www.mysql.com/" target="_blank" title=""> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> 
   </a> 
-  <a href="https://www.python.org/" target="_blank"> 
+  <a href="https://www.python.org/" target="_blank" title=""> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
   </a>
-  <a href="https://aws.amazon.com/" target="_blank"> 
+  <a href="https://aws.amazon.com/" target="_blank" title=""> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/> 
   </a> 
-  <a href="https://www.tableau.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="100" height="30"/> 
+  <a href="https://www.tableau.com/" target="_blank" title=""> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="50" height="50"/> 
   </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank"> 
+  <a href="https://powerbi.microsoft.com/" target="_blank" title=""> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/> 
   </a>
-  
 </p>
 
