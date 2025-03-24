@@ -4,7 +4,7 @@
 
 🔭 I am currently working on end-to-end data pipeline automation and analytics projects
 
-🌱 I’m currently exploring Advanced SQL, Cloud Data Warehouses (Snowflake, Redshift, BigQuery), and PySpark
+🌱 I’m currently exploring Advanced SQL, Tableau, and Power BI
 
 👨‍💻 All of my projects are available [here](https://github.com/grishma-patil?tab=repositories)
 
