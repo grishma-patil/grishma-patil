@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋, I'm Grishma Patil
 
 **📈 Data enthusiast with a passion for analytics, automation, and visualization. Master's degree in Information Technology and Analytics from Rutgers Business School. I love transforming raw data into meaningful insights and optimizing processes to drive better decision-making. Always eager to learn, experiment, and share knowledge.**
 
