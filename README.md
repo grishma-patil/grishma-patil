@@ -14,14 +14,14 @@
 
 📄 Know about my experiences [here](https://www.linkedin.com/in/grishmapatil/)
 
-## Connect with me:
+Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/grishmapatil/" target="_blank" title="">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" />
   </a>
 </p>
 
-## Languages and Tools:
+Languages and Tools:
 <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
